@@ -1,0 +1,63 @@
+/**********
+ *
+ *
+ * 
+ *     Change these styles
+ *
+ *
+ *
+*******************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********
+ *
+ *
+ * 
+ *     Leave these styles alone
+ *
+ *
+ *
+ *
+*******************/
+.box {
+	width: 250px;
+	height: 250px;	
+	color: black;
+	text-shadow: 1px 1px 0.5px rgba(255, 255, 255, 0.3);
+	font-weight: bold;
+	font-size: 3em;
+	padding: 5px;
+}
+a, a.visited, a.hover {
+	color: white;
+}
+
+/*
+ * http://colorbrewer2.org/?type=diverging&scheme=RdYlBu&n=11
+ * Cynthia Brewer, color brewer, 	diverging 11-color set
+ */
+.c1 { background: rgb(165,0,38); }
+.c2 { background: rgb(215,48,39); }
+.c3 { background: rgb(244,109,67); }
+.c4 { background: rgb(253,174,97); }
+.c5 { background: rgb(254,224,144); }
+.c6 { background: rgb(255,255,191); }
+.c7 { background: rgb(224,243,248); }
+.c8 { background: rgb(171,217,233); }
+.c9 { background: rgb(116,173,209); }
+.c10 { background: rgb(69,117,180); }
+.c11 { background: rgb(49,54,149); }

@@ -1,0 +1,49 @@
+/**********
+ *
+ *
+ * 
+ *     Change these styles
+ *
+ *
+ *
+*******************/
+#box_1 { 
+}
+#box_2 { 
+}
+#box_3 { 
+}
+
+
+
+
+
+
+
+
+
+
+
+/**********
+ *
+ *
+ * 
+ *     Leave these styles alone
+ *
+ *
+ *
+ *
+*******************/
+.box {
+	width: 250px;
+	height: 250px;	
+	color: white;
+	font-weight: bold;
+}
+/*
+ * http://colorbrewer2.org/?type=qualitative&scheme=Set2&n=3
+ * Cynthia Brewer, color brewer, qualitative 3-color set
+ */
+.c1 { background: rgb(102,194,165); }
+.c2 { background: rgb(252,141,98); }
+.c3 { background: rgb(141,160,203); }
