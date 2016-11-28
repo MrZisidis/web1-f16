@@ -48,6 +48,14 @@ ul {
   margin: 0 0 1em 0;
   padding: 0;
 }
+ul.bullets {
+  list-style-type: disc;
+  margin: 0 0 1em 1em;
+  padding: 0;
+}
+ul.bullets li {
+  margin-bottom: 0.25em;
+}
 ol.sections > li {
   margin-bottom: 0.5em;
 }
